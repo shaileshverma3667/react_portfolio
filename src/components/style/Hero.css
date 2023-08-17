@@ -1,0 +1,22 @@
+.myHeroBox{
+    height: 100vh;
+    scroll-snap-align: center;
+
+}
+
+.herofield{
+    margin-left: 10rem;
+}
+.left{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.right{
+    animation: animate 2s infinite ease alternate;
+}
+@keyframes animate{
+    to {
+        transform: translatey(100px);
+    }
+}

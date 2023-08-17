@@ -1,0 +1,5 @@
+.whoBox{
+    height: 100vh;
+    margin-left: 10rem;
+    scroll-snap-align: center;
+}

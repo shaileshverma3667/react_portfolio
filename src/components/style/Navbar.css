@@ -1,0 +1,5 @@
+.listNavbar{
+ display: flex;   
+ column-gap: 20px;
+ list-style: none;
+}

@@ -1,0 +1,25 @@
+.workBox{
+    height: 100vh;
+    
+    scroll-snap-align: center;
+}
+
+.workBox{
+    margin-left: 10rem;
+  
+}
+
+.list_workbox{
+    display: flex;
+    direction: column;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    color: transparent;
+    -webkit-text-stroke: 1px white ;
+    -webkit-text-fill-color: transparent;
+    color:white;
+}
+ul>li{
+    list-style: none;
+    
+}

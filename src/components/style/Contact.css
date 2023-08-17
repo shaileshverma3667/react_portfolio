@@ -1,0 +1,7 @@
+.contactBox{
+    height: 100vh;
+    scroll-snap-align: center;
+}
+.contact_row{
+  margin-left: 10rem;
+}
